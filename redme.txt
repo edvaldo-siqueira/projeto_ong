@@ -1,0 +1,18 @@
+versao do python:
+    python3 instalado versão 3.10
+
+dependencias:
+    customtkinter
+    tkinter
+    openpyxl
+
+instalação no linux .deb
+    sudo apt install python3-full
+    sudo apt install python3-pip
+    sudo apt install python3-tk
+
+instalar o customtkinter
+    pip install customtkinter
+    pip install openpyxl
+
+https://www.python.org/downloads/
